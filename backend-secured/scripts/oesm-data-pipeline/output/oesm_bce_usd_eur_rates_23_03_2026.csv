@@ -1,0 +1,38 @@
+# OESM — Tassi di cambio BCE USD/EUR (media annua)
+# Fonte: BCE Statistical Data Warehouse (SDW)
+# Serie: EXR.A.USD.EUR.SP00.A
+# URL: https://data-api.ecb.europa.eu/service/data/EXR/A.USD.EUR.SP00.A
+# Metodologia: tasso medio annuo (standard accademico per conversioni PIL)
+# Lettura: 1 USD = tasso_usd_eur EUR
+# Generato: 2026-03-23
+#
+# Esempio: PIL 2023 = 2.027.527.228 USD × 0.9246 = 1.874.651.675 EUR
+#
+anno,tasso_usd_eur
+1999,1.065776
+2000,0.923613
+2001,0.89563
+2002,0.945574
+2003,1.13116
+2004,1.243902
+2005,1.24409
+2006,1.255599
+2007,1.370478
+2008,1.470755
+2009,1.394782
+2010,1.325717
+2011,1.391955
+2012,1.284789
+2013,1.328118
+2014,1.328501
+2015,1.109513
+2016,1.106903
+2017,1.129681
+2018,1.180955
+2019,1.119475
+2020,1.142196
+2021,1.18274
+2022,1.053049
+2023,1.081269
+2024,1.08238
+2025,1.129983

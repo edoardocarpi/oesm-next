@@ -1,0 +1,19 @@
+# OESM — Dati raw World Bank — NON modificare
+# Indicatore: NE.TRD.GNFS.ZS
+# Paese: San Marino (SM / SMR)
+# Unità: valori originali dalla fonte, NON convertiti
+# Fonte: World Bank Development Indicators API
+# URL API: https://api.worldbank.org/v2/country/SM/indicator/NE.TRD.GNFS.ZS
+# Data download: 2026-03-23
+# Questo file è una copia fedele dei dati grezzi — non modificare
+#
+year,value
+2015,321.364013420909
+2016,320.146089060708
+2017,313.85032377067
+2018,309.487956436918
+2019,307.264778080283
+2020,304.903167579063
+2021,342.470174007962
+2022,370.436071813414
+2023,340.983395012486

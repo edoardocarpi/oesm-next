@@ -1,0 +1,19 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js",
+  "/robots.txt/route": "app/robots.txt/route.js",
+  "/smlli/page": "app/smlli/page.js",
+  "/dati/page": "app/dati/page.js",
+  "/about/page": "app/about/page.js",
+  "/economia-san-marino/page": "app/economia-san-marino/page.js",
+  "/en/data/[slug]/page": "app/en/data/[slug]/page.js",
+  "/en/economy-san-marino/page": "app/en/economy-san-marino/page.js",
+  "/dati/[slug]/page": "app/dati/[slug]/page.js",
+  "/en/data/page": "app/en/data/page.js",
+  "/page": "app/page.js",
+  "/en/indices/smlli/page": "app/en/indices/smlli/page.js",
+  "/indici/smlli/page": "app/indici/smlli/page.js",
+  "/en/page": "app/en/page.js",
+  "/en/about/page": "app/en/about/page.js"
+}

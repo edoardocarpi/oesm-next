@@ -1,0 +1,35 @@
+# OESM — Dati raw World Bank — NON modificare
+# Indicatore: ST.INT.ARVL
+# Paese: San Marino (SM / SMR)
+# Unità: valori originali dalla fonte, NON convertiti
+# Fonte: World Bank Development Indicators API
+# URL API: https://api.worldbank.org/v2/country/SM/indicator/ST.INT.ARVL
+# Data download: 2026-03-23
+# Questo file è una copia fedele dei dati grezzi — non modificare
+#
+year,value
+1995,3368000.0
+1996,3345000.0
+1997,3308000.0
+1998,3264000.0
+1999,3148000.0
+2000,3071000.0
+2001,3036000.0
+2002,3102000.0
+2003,2882000.0
+2004,2812000.0
+2005,2107000.0
+2006,2136000.0
+2007,2164000.0
+2008,2112000.0
+2009,2056000.0
+2010,1976000.0
+2011,2038000.0
+2012,1869000.0
+2013,1905000.0
+2014,2004000.0
+2015,1888000.0
+2016,2000000.0
+2017,1937000.0
+2018,1874000.0
+2019,1904000.0

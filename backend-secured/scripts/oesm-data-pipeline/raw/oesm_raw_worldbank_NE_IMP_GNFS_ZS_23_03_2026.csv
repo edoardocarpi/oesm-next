@@ -1,0 +1,19 @@
+# OESM — Dati raw World Bank — NON modificare
+# Indicatore: NE.IMP.GNFS.ZS
+# Paese: San Marino (SM / SMR)
+# Unità: valori originali dalla fonte, NON convertiti
+# Fonte: World Bank Development Indicators API
+# URL API: https://api.worldbank.org/v2/country/SM/indicator/NE.IMP.GNFS.ZS
+# Data download: 2026-03-23
+# Questo file è una copia fedele dei dati grezzi — non modificare
+#
+year,value
+2015,146.911332466153
+2016,147.077919840142
+2017,145.071642434811
+2018,142.890458767935
+2019,143.267538916062
+2020,140.424473161793
+2021,158.155892463004
+2022,173.023720494097
+2023,154.990600576481
